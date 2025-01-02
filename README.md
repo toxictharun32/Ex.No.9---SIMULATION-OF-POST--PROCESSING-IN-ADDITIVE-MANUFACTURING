@@ -1,6 +1,6 @@
 # Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
-### DATE: 
+### DATE: 28.11.2024
 
 ## AIM: 
 ### To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
@@ -34,26 +34,21 @@
 ## OUTPUT :
 
 ## Support Removal Process
-
-![Screenshot 2025-01-01 145918](https://github.com/user-attachments/assets/de5019be-1c6e-403b-bcc3-fd983a73ab50)
-![Screenshot 2025-01-01 145930](https://github.com/user-attachments/assets/bc4bbccb-ade9-47b1-99ec-0432452ddc61)
+![image](https://github.com/user-attachments/assets/e4ef2632-327c-4c2f-b778-52e430a9cc43)
+![image](https://github.com/user-attachments/assets/60f610ff-b722-4715-9767-2caf7b65a4e2)
 
 ## UV Curing of 3D printed part
+![image](https://github.com/user-attachments/assets/2dab5ec1-ce14-4677-80f6-dab23195f879)
+![image](https://github.com/user-attachments/assets/007b85a7-eee9-4e4f-be59-3aeeb07f123d)
 
-![Screenshot 2025-01-01 150032](https://github.com/user-attachments/assets/832d527e-922c-4e22-b140-f745dba507d1)
-![Screenshot 2025-01-01 150041](https://github.com/user-attachments/assets/c1d996b4-adf9-407f-b0e7-0eb0a68ed051)
 
 ## Heat Treatment of 3D printed part
-
-![Screenshot 2025-01-01 150158](https://github.com/user-attachments/assets/377573e7-0ee8-474b-a65d-569d9045341f)
-![Screenshot 2025-01-01 150205](https://github.com/user-attachments/assets/1100a72a-3d41-49ec-9c00-9ff455cc0e63)
-
-## Output:
-
-![Screenshot 2025-01-01 145142](https://github.com/user-attachments/assets/133857d6-f77f-4950-b4b2-c68fb4ef5d97)
+![image](https://github.com/user-attachments/assets/479154a6-ee7b-4498-a27d-6d6aed15ca86)
+![image](https://github.com/user-attachments/assets/e40bc1f9-291f-4f59-9860-f640aeac4853)
 
 
-### Name:tharun B
+
+### Name : DARSHAN V
 ### Register Number:24002876
 
 ## Result: 
