@@ -34,21 +34,27 @@
 ## OUTPUT :
 
 ## Support Removal Process
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/772fb2a3-62b2-4654-8777-d06c89da300e)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/54ddd8f1-cf4e-4812-9573-129f16839b59)
+
+![Screenshot 2025-01-01 145918](https://github.com/user-attachments/assets/de5019be-1c6e-403b-bcc3-fd983a73ab50)
+![Screenshot 2025-01-01 145930](https://github.com/user-attachments/assets/bc4bbccb-ade9-47b1-99ec-0432452ddc61)
 
 ## UV Curing of 3D printed part
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/b8aaa899-f319-4192-9dd7-126717137bfd)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/5fa69c3d-4e61-4226-b2ad-b0765c0cd498)
+
+![Screenshot 2025-01-01 150032](https://github.com/user-attachments/assets/832d527e-922c-4e22-b140-f745dba507d1)
+![Screenshot 2025-01-01 150041](https://github.com/user-attachments/assets/c1d996b4-adf9-407f-b0e7-0eb0a68ed051)
 
 ## Heat Treatment of 3D printed part
-![123_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/22c2fbe1-2159-46bf-b6aa-d7704484aa8a)
-![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
+
+![Screenshot 2025-01-01 150158](https://github.com/user-attachments/assets/377573e7-0ee8-474b-a65d-569d9045341f)
+![Screenshot 2025-01-01 150205](https://github.com/user-attachments/assets/1100a72a-3d41-49ec-9c00-9ff455cc0e63)
 
 ## Output:
 
-### Name:
-### Register Number:
+![Screenshot 2025-01-01 145142](https://github.com/user-attachments/assets/133857d6-f77f-4950-b4b2-c68fb4ef5d97)
+
+
+### Name:tharun B
+### Register Number:24002876
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
