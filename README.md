@@ -48,8 +48,8 @@
 
 
 
-### Name : DARSHAN V
-### Register Number:24002876
+### Name : Tharun B
+### Register Number:24005331
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
